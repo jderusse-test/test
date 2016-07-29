@@ -4,9 +4,41 @@ Aptus Health
 Our values
 ----------
 
-Collaborative
-Customer Focused
-Innovative
-Driven
-Provocative
+* Collaborative
+* Customer Focused
+* Innovative
+* Driven
+* Provocative
 
+Wed Aug  3 11:44:23 CEST 2016
+Wed Aug  3 11:50:51 CEST 2016
+Wed Aug  3 11:52:59 CEST 2016
+Wed Aug  3 11:56:12 CEST 2016
+Wed Aug  3 12:04:59 CEST 2016
+Wed Aug  3 15:13:58 CEST 2016
+Wed Aug  3 15:14:30 CEST 2016
+Wed Aug  3 15:18:43 CEST 2016
+Wed Aug  3 15:20:00 CEST 2016
+Wed Aug  3 15:22:51 CEST 2016
+Wed Aug  3 15:31:44 CEST 2016
+Wed Aug  3 15:47:30 CEST 2016
+Wed Aug  3 15:52:14 CEST 2016
+Wed Aug  3 15:58:47 CEST 2016
+Wed Aug  3 16:00:08 CEST 2016
+Wed Aug  3 16:08:24 CEST 2016
+Wed Aug  3 16:09:16 CEST 2016
+Wed Aug  3 16:10:42 CEST 2016
+Wed Aug  3 16:11:35 CEST 2016
+Wed Aug  3 16:12:07 CEST 2016
+Wed Aug  3 16:12:20 CEST 2016
+Wed Aug  3 16:12:41 CEST 2016
+Wed Aug  3 16:13:23 CEST 2016
+Wed Aug  3 16:14:04 CEST 2016
+Wed Aug  3 16:15:10 CEST 2016
+Wed Aug  3 16:15:31 CEST 2016
+Wed Aug  3 16:16:52 CEST 2016
+Wed Aug  3 16:17:51 CEST 2016
+Wed Aug  3 16:18:13 CEST 2016
+Wed Aug  3 16:18:26 CEST 2016
+Wed Aug  3 16:18:52 CEST 2016
+Wed Aug  3 16:24:36 CEST 2016
