@@ -12,7 +12,7 @@ test:
   pre:
     - docker-compose pull
     - docker-compose up -d app
-    - docker-compose run --rm wait
+    - docker-compose run wait
   override:
     # grunt runs our karma tests
     - docker-compose run app pwd
