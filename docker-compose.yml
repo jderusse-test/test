@@ -1,0 +1,13 @@
+app:
+  image: php:7-apache
+  links:
+    - db
+
+db:
+  image: mysql
+
+
+wait:
+  image: martin/wait
+  links:
+    - db
